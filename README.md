@@ -2,8 +2,8 @@
 
 <h2>Description</h2>
 An android mobile application that provides users the ability to manage their vehicle's
-maintenance in a convenient and accessible manner. User's may store maintenance record information for each vehicle owned,
-see a chronological list of all maintenance services performed, and search for records by month.
+maintenance in a convenient and accessible manner. Users may store maintenance record information for each vehicle owned,
+see a chronological list of all maintenance services performed, and search for records by month. All information is stored in a relation SQLite database containing two tables.
 <br />
 
 
